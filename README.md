@@ -16,7 +16,7 @@ This project introduces a **Smart Infrastructure Capacity & Utilization Monitori
 * **Road Traffic Monitoring**
 
 The platform collects infrastructure data, calculates utilization levels, and presents real-time insights using a centralized dashboard to help authorities detect overload situations and respond quickly.
-![Project Demo](demo.gif)
+![Project Demo](demo1.gif)
 
 ---
 
